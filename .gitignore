@@ -1,0 +1,7 @@
+.gitsecret/keys/random_seed
+!*.secret
+credentials
+.vagrant
+*.log
+terraform.tfvars
+Terraform.pem
